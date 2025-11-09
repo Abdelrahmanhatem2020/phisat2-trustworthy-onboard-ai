@@ -2,7 +2,7 @@
 [![CI](https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai/actions/workflows/ci.yml)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- replace when minted -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17567181.svg)](https://doi.org/10.5281/zenodo.17567181)
 [![Discussions](https://img.shields.io/github/discussions/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai)](https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai/discussions)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -122,9 +122,9 @@ See `assurance/`.
 
 If you use or adapt this repository, please cite
 
-> Kaczmarek, S. (2025). *PhiSat-2 Trustworthy Onboard AI*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Kaczmarek, S. (2025). *PhiSat-2 Trustworthy Onboard AI*. Zenodo. https://doi.org/10.5281/zenodo.17567181
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17567181.svg)](https://doi.org/10.5281/zenodo.17567181)
 
 **BibTeX**
 ```bibtex
@@ -134,7 +134,7 @@ If you use or adapt this repository, please cite
   year      = {2025},
   publisher = {Zenodo},
   url       = {https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai},
-  doi       = {10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.17567181}
 }
 ```
 
