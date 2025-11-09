@@ -1,5 +1,6 @@
 # PhiSat-2 Trustworthy Onboard AI
 [![CI](https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sylvesterkaczmarek/phisat2-trustworthy-onboard-ai/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Compact PyTorch → ONNX → INT8 pipeline for onboard inference on EO small-sat/CubeSat platforms. Includes an Earth Observation tile triage example that mirrors a PhiSat-2 style onboard selection step. Runs locally on a laptop or a small SBC. See the runnable demo in `examples/phi2-eo-tile-filter`.
 
